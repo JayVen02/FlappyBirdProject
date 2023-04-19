@@ -59,6 +59,7 @@ public class Launcher implements ActionListener, MouseListener, KeyListener
         bird = new Rectangle(WIDTH / 2 - 10, HEIGHT / 2 - 10, 20, 20);
         columns = new ArrayList<Rectangle>();
 
+        System.out.println("Test");
         addColumn(true);
         addColumn(true);
         addColumn(true);
