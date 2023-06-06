@@ -11,5 +11,3 @@ You can make the bird jump by pressing the Space key. While you are playing the 
 
 The game is the original Flappy Bird where if the bird hits a pipe or the top of the screen, then it's game over. In the end screen you will see a Game Over message and the score. 
 The score is the amount of pipes you went through before losing.
-
-For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
